@@ -1,5 +1,5 @@
 # CollectionFramework_SetInterface
-Java - HashSet, LinkedHashSet ve TreeSet
+Java - [HashSet](https://www.flowerbrackets.com/hashset-in-java/), [LinkedHashSet](https://www.flowerbrackets.com/linkedhashset-in-java/) ve [TreeSet](https://www.flowerbrackets.com/treeset-in-java/)
 
 
     Set Interface ----> HashSet,LinkedHashSet, TreeSet
